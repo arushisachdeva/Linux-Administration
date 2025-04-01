@@ -17,6 +17,8 @@
 <h5>Lab 1:</h5>
 <p>1. Open the terminal and type:</p>
 <i>sudo useradd operator1</i>
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/9597b449-aa3d-4a94-becb-410dd4fd2980" />
+
 <br>
 
 <p>2. To check whether or not the user is added:</p>
